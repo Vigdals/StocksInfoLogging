@@ -1,2 +1,2 @@
 # StocksInfoLogging
-This is just a logging file pushed from git for lolz
+#This is just a logging file pushed from git for lolz
